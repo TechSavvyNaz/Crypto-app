@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867870499017",
+    "project_id": "digitalproductstore-19bf6",
+    "storage_bucket": "digitalproductstore-19bf6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867870499017:android:2322d229987d77038e2d18",
+        "android_client_info": {
+          "package_name": "com.example.digitalproductstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOIsm0M3GHu1BYgY0ZO-eX4jCsW8vTnhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
