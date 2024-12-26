@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488917786796",
+    "project_id": "digital-a4b57",
+    "storage_bucket": "digital-a4b57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488917786796:android:b6821f80d30c29f1d4bf09",
+        "android_client_info": {
+          "package_name": "com.example.digital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsoTEm4g4U_2Gk_9yZeSFuis1vSUJsE3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
